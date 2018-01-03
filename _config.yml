@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Digital historian | PhD-candidate | Mining historical texts, war, and emotions @NIODamsterdam with R | Past visions of the future | French classic cars"
+  location         : "Amsterdam, NL"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "MilanvanL"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@milanvanlange"
   vine             :
   weibo            :
   xing             :
