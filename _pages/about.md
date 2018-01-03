@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Milan van Lange - Personal Website"
+title: "Milan van Lange's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
