@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "NL"
 title                    : "Milan Mikolaj van Lange"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Milan van Lange"
   avatar           : "profile.png"
-  bio              : "Digital historian | PhD-candidate | Mining historical texts, war, and emotions @NIODamsterdam with R | Past visions of the future | French classic cars"
+  bio              : "Digital historian | PhD-candidate | Mining historical texts, war, and emotions at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam | in R"
   location         : "Amsterdam, NL"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
