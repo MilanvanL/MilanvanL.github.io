@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Milan van Lange"
+  name             : #"Milan van Lange"
   avatar           : "profile.png"
   bio              : "Digital historian | PhD-candidate | Mining historical texts, war, and emotions at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam | Working mainly in R"
   location         : "Amsterdam, NL"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :https://www.linkedin.com/in/milanvanlange/
   orcid            : 
   pinterest        :
   soundcloud       :
