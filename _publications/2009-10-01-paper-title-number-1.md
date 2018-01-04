@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Geschiedschrijving Nederlands verzet steeds persoonlijker"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+type: review article
+permalink: /publication/review_1_2016
+date: 2016
+venue: 'Tijdschrift voor Geschiedenis'
+paperurl: 'http://www.ingentaconnect.com/contentone/aup/tg/2016/00000129/00000004/art00007'
+citation: 'Van Lange, Milan. (2016). &quot;Geschiedschrijving Nederlands verzet steeds persoonlijker.&quot; <i>Tijdschrift voor Geschiedenis</i>. 129:4.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Review of: Hilbrink (2015), Knokploegen; Schippers (2015), De Westerweelgroep en de Palestinapioniers
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Link to review here](http://www.ingentaconnect.com/contentone/aup/tg/2016/00000129/00000004/art00007)
