@@ -1,6 +1,6 @@
 ---
 title: "Mind, Text, and Mining Seminar"
-excerpt: "Frequently recurring seminar, organized in collaboraiton with Martijn Schoonvelde (VU University) and Mark Dechesne (Leiden University)."
+excerpt: "Frequently recurring seminar on quantitative analysis using text mining. I am organizing the MTM seminar 4-5 times a year in collaboration with Martijn Schoonvelde (VU University) and Mark Dechesne (Leiden University). Click for more details."
 collection: portfolio
 type: event
 ---
