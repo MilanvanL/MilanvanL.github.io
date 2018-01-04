@@ -9,7 +9,7 @@
 locale                   : "NL"
 title                    : "Milan Mikolaj van Lange"
 title_separator          : "-"
-name                     : &name "Milan van Lange"
+name                     : &name 
 description              : &description "A digital-working Historian"
 url                      : https://MilanvanL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
