@@ -1,4 +1,4 @@
-
+a
 # main links links
 main:
   - title: "Publications"
@@ -10,7 +10,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Seminar"
     url: /portfolio/
         
   - title: "Activities"
