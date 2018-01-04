@@ -10,5 +10,4 @@ citation: 'Olieman, A., Beelen, K., van Lange, M., Kamps, J., & Marx, M. (2017).
 The Case of Corpus Selection in Digital Humanities.</i> In Proceedings of the 13th International Conference on Semantic Systems ACM.'
 ---
 
-
-[Link to paper here](https://arxiv.org/pdf/1708.01162.pdf)
+[Download paper here](https://arxiv.org/pdf/1708.01162.pdf)
