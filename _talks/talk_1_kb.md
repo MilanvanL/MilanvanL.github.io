@@ -1,4 +1,3 @@
-
 ---
 title: "Emotions in historical text"
 collection: talks
