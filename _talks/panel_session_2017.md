@@ -4,7 +4,7 @@ collection: talks
 type: "Conference panel session"
 permalink: /talks/panel_session_2017
 venue: "Digital Humanities Benelux Conference 2017"
-date: 2014-03-01
+date: 2017-07-04
 location: "Utrecht, NL"
 ---
 
