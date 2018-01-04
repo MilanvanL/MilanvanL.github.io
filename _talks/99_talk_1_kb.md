@@ -1,5 +1,5 @@
 ---
-title: "Emotions in historical text"
+title: "Emotions in Historical Texts"
 collection: talks
 type: "Talk"
 permalink: /talks/talk1_kb
