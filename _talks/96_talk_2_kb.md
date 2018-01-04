@@ -1,5 +1,5 @@
 ---
-title: "Ballistic rockets through (discursive) space"
+title: "Ballistic Rockets through (Discursive) Space"
 collection: talks
 type: "Talk"
 permalink: /talks/talk2_kb
