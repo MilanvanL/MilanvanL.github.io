@@ -11,7 +11,7 @@ location: "Manchester, UK"
 
 The concept of “justice” is at once universal or near-universal through time and societies, but the meanings given to the term are historically fluid. What is considered “just” in one society may be profoundly unjust in another. In addition, conceptualizations of justice can change dramatically within a generation.
 
-Together with Ralf Futselaar, I figured out a way to investigate this issue. We used the digitized proceedings of the Dutch parliament (Handelingen der Staten-Generaal) and a digital method in our approach to solve this problem. We trained Word Embedding Models (WEMs) using the Google Word2Vec algorithm to gain insight in the discursive spaces of different terms over time. By combining WEMs with Cosine Similarity measures, we developed a workflow to use discursive spaces of words to learn something about the concepts they represent and to compare them diachronically.
+Together with Ralf Futselaar, I tried to figure out a way to investigate this issue. We used the digitized proceedings of the Dutch parliament (Handelingen der Staten-Generaal) and a digital method in our approach to solve this problem. We trained Word Embedding Models (WEMs) using the Google Word2Vec algorithm to gain insight in the discursive spaces of different words over time. By combining WEMs with Cosine Similarity measures, we developed a workflow to use discursive spaces of words to learn something about the concepts they represent and to compare these concepts diachronically.
 
 What have we learned?
 - Crimes against the nation (treason) decline in importance;
@@ -20,4 +20,4 @@ What have we learned?
 - More discussion in parliament of death penalty when NOT available anymore (as punishment).
 
 [The complete abstract can be found here.](http://genealogiesofknowledge.net/gok2017conference/abstracts/#individual)
-Our PowerPointPresentation will be available online soon.
+The PowerPointPresentation will be available online soon.
