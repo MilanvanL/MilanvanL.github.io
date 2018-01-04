@@ -1,5 +1,5 @@
 ---
-title: "Text mining in practice. A discussion on user-applied text mining techniques in historical research."
+title: "Text mining in practice. A discussion on user-applied text mining techniques in historical research"
 collection: talks
 type: "Conference panel session"
 permalink: /talks/panel_session_2017
