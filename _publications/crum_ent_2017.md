@@ -1,5 +1,5 @@
 ---
-title: "Good Applications for Crummy Entity Linkers?: The Case of Corpus Selection in Digital Humanities"
+title: "Good Applications for Crummy Entity Linkers? The Case of Corpus Selection in Digital Humanities"
 collection: publications
 type: conference paper
 permalink: /publication/crum_ent_2017
