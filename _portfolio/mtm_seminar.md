@@ -7,8 +7,8 @@ In collaboration with Martijn Schoonvelde (VU University) and Mark Dechesne (Lei
 
 <br/><br/>To learn more about these developments, we have formed a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis.
 
-
-<br/><br/><img src='https://pbs.twimg.com/media/DL8aU6kWAAEproA.jpg:small'>"
+<br/><img src='https://pbs.twimg.com/media/DL8aU6kWAAEproA.jpg:small'>
+<br/><i> Roundtable discussion during the third seminar at the NIOD, 2017 </i>"
 collection: portfolio
 ---
 
