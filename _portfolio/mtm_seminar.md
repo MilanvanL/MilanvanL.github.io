@@ -1,7 +1,7 @@
 ---
 title: "Mind, Text, and Mining Seminar"
 excerpt: "
-In collaboration with Martijn Schoonvelde (VU University) and Mark Dechesne (Leiden University) I am organizing a frequently recurring seminar on the quantitative analysis of large text corpora. 
+In collaboration with dr. Martijn Schoonvelde (VU University) and dr. Mark Dechesne (Leiden University) I am organizing a frequently recurring seminar on the quantitative analysis of large text corpora. 
 
 <br/><br/>In various academic fields texts are analysed for indicators of speaker personality, or speaker emotions like disgust, anger, and happiness: concepts which have been shown to drive political behaviour or to represent opinions, attitudes or emotionality in relation to certain topics. Quantitative analysis or ‘mining’ of these psychological constructs in the study of historical, social, and political phenomena is burgeoning.
 
