@@ -7,19 +7,10 @@ In collaboration with dr. Martijn Schoonvelde (VU University) and dr. Mark Deche
 
 <br/><br/>To learn more about these developments, we have formed a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis.
 
-<br/><br/>Next seminar: February 28, 2018
-Programme:
-•	Welcome by Milan van Lange (NIOD Institute for War, Holocaust and Genocide Studies).
-•	Presentation by Michael Bossetta (University of Copenhagen): “Measuring Deliberation on Social Media as Arguments in Facebook Comments: The Case of Brexit”. (Summary in attachment) 
-•	Roundtable discussion. Michael came up with some questions for discussion in advance:
-o	How confident should researchers be in using rather 'black box' computational text mining methods, such as the formality score metric used here? 
-o	How should the quantitative outputs of text mining methods be interpreted? In our case, should differences in formality scores be interpreted as significantly large or small? 
-
-•   Date and time: February 28, 2018 | 3-5PM (we will start at 3 PM sharp!)
-•   Location: Conference room NIOD (first floor), Herengracht 380, Amsterdam
+<br/><br/>Next seminar: February 28, 2018 | 3-5PM | Conference room NIOD (first floor), Herengracht 380, Amsterdam
 
 
-<br/><img src='https://pbs.twimg.com/media/DL8aU6kWAAEproA.jpg:small'>
+<br/><br/><img src='https://pbs.twimg.com/media/DL8aU6kWAAEproA.jpg:small'>
 <br/><i> Roundtable discussion during the third seminar at the NIOD, 2017 </i>"
 collection: portfolio
 ---
