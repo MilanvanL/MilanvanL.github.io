@@ -11,7 +11,7 @@ location: "Manchester, UK"
 
 The concept of “justice” is at once universal or near-universal through time and societies, but the meanings given to the term are historically fluid. What is considered “just” in one society may be profoundly unjust in another. Together with Ralf Futselaar, I proposed a method to investigate the issue. We used the digitized proceedings of the Dutch parliament (Handelingen der Staten-Generaal). Next, we trained Word Embedding Models (WEMs) with this data using the Google Word2Vec algorithm to gain insight in the discursive spaces of different words over time. By combining WEMs with Cosine Similarity measures, we developed a workflow to use discursive spaces of words to learn something about the concepts they represent and to compare these concepts diachronically.
 
-What have we learned?
+What have we learned about the war criminal discourse in Dutch parliament 1945-1975?
 - Crimes against the nation (treason) decline in importance;
 - Crimes against individuals increase in importance (we think, living victims);
 - Emphasis on retribution increases, concept of clemency seems stable;
