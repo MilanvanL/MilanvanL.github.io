@@ -12,7 +12,7 @@ The NATO “double‐track decision” of 1979 envisioned the placement of nucle
 
 <i>By Ralf Futselaar and Milan van Lange</i>
 
-We are using Word Embedding Models (WEMs) to analyse this acrimonious debate in the proceedings of the Dutch lower and upper house of Parliament during the 1970s and 1980s. The official political positions either for or against deployment, as expressed in party manifestos and voting behaviour inside parliament, were stable throughout this period. We demonstrate that in spite of this apparent stability, the vocabularies used by representatives of different political parties changed significantly through time.
+Inspired by others using large historical datasets and Word Embedding Models (WEMs) to investigate relations between words [(see Ben's Bookworm Blog, for example)](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html), we wanted to analyse this acrimonious debate using word embeddings and the proceedings of the Dutch lower and upper house of Parliament during the 1970s and 1980s. The official political positions either for or against deployment, as expressed in party manifestos and voting behaviour inside parliament, were stable throughout this period. We demonstrate that in spite of this apparent stability, the vocabularies used by representatives of different political parties changed significantly through time.
 
 <b>Data</b>
 
