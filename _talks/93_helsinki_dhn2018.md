@@ -30,13 +30,13 @@ This allows us to compare political discourses in discussions on nuclear weapons
 
 Obviously, representatives of all Dutch political parties used words from both categories in parliamentary debates. It is almost impossible, after all, to engage in a discussion without ever using the terms used by your adversaries. At any given time, however, we demonstrate that different political parties could be shown to have clear preferences in terms of vocabulary. In the “discursive space” created by the binary opposition between pro‐ and contra‐proliferation words, political parties can be shown to have had specific and distinct ways of discussing nuclear weapons. We identify and distinguish the specific vocabularies used by the Communist (red), Social Democrat (blue), Christian Democrat (green) and Liberal (black) parties. 
 
-<img src="plot_70-75_def2.jpg"  width="500" height="325" alt="Nuclear weapon debates 1970-1975"
+<img src="plot_70-75_def2.jpg"  width="600" height="500" alt="Nuclear weapon debates 1970-1975"
      title="Nuclear weapon debates 1970-1975" />
      
 
 Using this framework, we have analysed the changing vocabularies of different political parties. This allows us to show that, while stated policy positions and voting behaviour remained unchanged, the language used to discuss nuclear weapons shifted strongly towards anti‐proliferation terminology. We have also been able to show that this change happened at different times for different political parties. We speculate that these changes in the preferred “dialect” to discuss nuclear weapons resulted from perceived changes of opinion among the target electorates of different parties, as well as the changing geopolitical climate of the mid‐to‐late 1980s, where nuclear non‐proliferation became a more widely shared policy objective.
 
-<img src="plot_82-87_def.jpg"  width="500" height="325" alt="Nuclear weapon debates 1982-1989"
+<img src="plot_82-87_def.jpg"  width="600" height="500" alt="Nuclear weapon debates 1982-1989"
      title="Nuclear weapon debates 1982-1989" />
      
 
