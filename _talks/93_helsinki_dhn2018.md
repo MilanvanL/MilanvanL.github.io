@@ -33,14 +33,14 @@ Obviously, representatives of all Dutch political parties used words from both c
 <img src="plot_70-75_def2.jpg"  width="600" height="500" alt="Nuclear weapon debates 1970-1975"
      title="Nuclear weapon debates 1970-1975" />
      
-<i>Fig. 1: Top 25 nuclear weapon words 1970-1975 (per party) plotted by their cosine similarity to proliferation (x) and non-proliferation (y) words.  </i>  
+<small><i>Fig. 1: Top 25 nuclear weapon words 1970-1975 (per party) plotted by their cosine similarity to proliferation (x) and non-proliferation (y) words.</i></small>
 
 Using this framework, we have analysed the changing vocabularies of different political parties. This allows us to show that, while stated policy positions and voting behaviour remained unchanged, the language used to discuss nuclear weapons shifted strongly towards anti‐proliferation terminology (Fig. 2). We have also been able to show that this change happened at different times for different political parties. We speculate that these changes in the preferred “dialect” to discuss nuclear weapons resulted from perceived changes of opinion among the target electorates of different parties, as well as the changing geopolitical climate of the mid‐to‐late 1980s, where nuclear non‐proliferation became a more widely shared policy objective.
 
 <img src="plot_82-87_def.jpg"  width="600" height="500" alt="Nuclear weapon debates 1982-1989"
      title="Nuclear weapon debates 1982-1989" />
      
-<i>Fig. 2: Top 25 nuclear weapon words 1982-1987 (per party) plotted by their cosine similarity to proliferation (x) and non-proliferation (y) words. </i>   
+<small><i>Fig. 2: Top 25 nuclear weapon words 1982-1987 (per party) plotted by their cosine similarity to proliferation (x) and non-proliferation (y) words. </i></small>
 
 <b>Conclusion</b>
 
