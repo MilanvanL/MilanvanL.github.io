@@ -7,7 +7,6 @@ venue: "Digital Humanities in the Nordic Countries 2018"
 date: 2018-03-07
 location: "Helsinki, FIN"
 ---
-Intro
 
 We analysed the debate about the placement of nuclear‐enabled cruise missiles in the Netherlands during the 1970s and 1980s. The NATO “double‐track decision” of 1979 envisioned the placement of these weapons in the Netherlands, to which the Dutch government eventually agreed in 1985. In the early 1980s, the controversy regarding placement or non‐placement of these missiles led to the greatest popular protests in Dutch history and to a long and often bitter political controversy. After 1985, due to declining tensions between the Soviet Block and NATO, the cruise missiles were never stationed in the Netherlands. Much older nuclear warheads, in the country since the early 1960s, remain there until today. 
 
