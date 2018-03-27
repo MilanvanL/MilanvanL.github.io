@@ -28,7 +28,7 @@ This allows us to compare political discourses in discussions on nuclear weapons
 
 <b>Results</b> 
 
-Obviously, representatives of all Dutch political parties used words from both categories in parliamentary debates. It is almost impossible, after all, to engage in a discussion without ever using the terms used by your adversaries. At any given time, however, we demonstrate that different political parties could be shown to have clear preferences in terms of vocabulary. In the “discursive space” created by the binary opposition between pro‐ and contra‐proliferation words, political parties can be shown to have had specific and distinct ways of discussing nuclear weapons. We identify and distinguish the specific vocabularies used by the Communist, Social Democrat, Christian Democrat and Liberal parties. 
+Obviously, representatives of all Dutch political parties used words from both categories in parliamentary debates. It is almost impossible, after all, to engage in a discussion without ever using the terms used by your adversaries. At any given time, however, we demonstrate that different political parties could be shown to have clear preferences in terms of vocabulary. In the “discursive space” created by the binary opposition between pro‐ and contra‐proliferation words, political parties can be shown to have had specific and distinct ways of discussing nuclear weapons. We identify and distinguish the specific vocabularies used by the Communist (red), Social Democrat (blue), Christian Democrat (green) and Liberal (black) parties. 
 
 <img src="Picture1.jpg"  width="500" height="375" alt="Nuclear weapon debates 1970-1975"
      title="Nuclear weapon debates 1970-1975" />
