@@ -1,5 +1,5 @@
 ---
-title: "Dialects of Discord: Using Word Embedding Models to analyse preferred vocabularies in political debate through time: the nuclear weapons controversy in the Netherlands, 1970‐1990"
+title: "Dialects of Discord: Using Word Embedding Models to analyse preferred vocabularies in political debate through time"
 collection: talks
 type: "Paper presentation"
 permalink: /talks/talk_2018_1
