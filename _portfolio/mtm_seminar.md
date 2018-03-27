@@ -50,3 +50,10 @@ An overview of previous seminars:
 <br/>○ Presentation by Mark Dechesne (Leiden University): "Episode Analysis: Applying factor analyses to identofy episodes in political texts" 
 <br/>○ Roundtable discussion
 
+<br/>Ffth Mind, Text, and Mining seminar:
+<br/>● Date and time: February 28, 2018 | 3-5PM
+<br/>● Location: NIOD Institute for War, Holocaust and Genocide studies (Herengracht 380 1016 CJ Amsterdam)
+<br/><br/>● Programme:
+<br/>○ Welcome by Milan van Lange (NIOD)
+<br/>○ Presentation by Michael Bossetta (University of Copenhagen) on using NLP to measure arguments about Brexit in Facebook comments. " 
+<br/>○ Roundtable discussion
