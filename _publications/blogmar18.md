@@ -6,7 +6,7 @@ permalink: /publication/blogmar18
 date: 2018-03-29
 venue: 'NIOD Blog'
 paperurl: 
-citation: 'Futselaar, F. & van Lange, M. (2018). &quot;Ontwapenend onderzoek. De kruisrakettendiscussie geanalyseerd&quot; 
+citation: 'Futselaar, R. & van Lange, M. (2018). &quot;Ontwapenend onderzoek. De kruisrakettendiscussie geanalyseerd&quot; 
 <i>NIOD Blog</i>'
 ---
 
