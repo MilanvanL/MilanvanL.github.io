@@ -57,3 +57,11 @@ An overview of previous seminars:
 <br/>○ Welcome by Milan van Lange (NIOD)
 <br/>○ Presentation by Michael Bossetta (University of Copenhagen) on using NLP to measure arguments about Brexit in Facebook comments. 
 <br/>○ Roundtable discussion
+
+<br/>Sixth Mind, Text, and Mining seminar:
+<br/>● Date and time: May 17, 2018 | 3-5PM
+<br/>● Location: VU University, Amsterdam
+<br/><br/>● Programme:
+<br/>○ Welcome by Martijn Schoonvelde (VU)
+<br/>○ Presentation by David Graus (FD Media Group) on Financial News Mining.
+<br/>○ Roundtable discussion
