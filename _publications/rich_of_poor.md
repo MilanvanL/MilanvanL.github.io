@@ -10,6 +10,5 @@ citation: 'Olieman, A., Beelen, K., van Lange, M., Kamps, J., & Marx, M. (2017).
 Linkers for Interactive Search in Digital Humanities&quot; <i>Abstract from 16th Dutch-Belgian Information Retrieval
 Workshop, Hilversum, Netherlands.</i>. '
 ---
-Review of: Hilbrink (2015), Knokploegen; Schippers (2015), De Westerweelgroep en de Palestinapioniers
 
 [Download abstract here](https://pure.uva.nl/ws/files/18995081/DIR2017_riches_poor.pdf)
