@@ -11,4 +11,4 @@ Linkers for Interactive Search in Digital Humanities&quot; <i>Abstract from 16th
 Workshop, Hilversum, Netherlands.</i>. '
 ---
 
-[Download abstract here](https://pure.uva.nl/ws/files/18995081/DIR2017_riches_poor.pdf)
+<a href="https://pure.uva.nl/ws/files/18995081/DIR2017_riches_poor.pdf" target="_blank">Download abstract here</a> 
