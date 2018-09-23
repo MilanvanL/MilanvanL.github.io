@@ -1,4 +1,3 @@
-
 ---
 title: "Debating Evil: Using Word Embeddings to Analyze Parliamentary Debates on War Criminals in The Netherlands"
 collection: publications
