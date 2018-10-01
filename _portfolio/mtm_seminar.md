@@ -8,9 +8,9 @@ In collaboration with dr. Martijn Schoonvelde (VU University) and dr. Mark Deche
 <br/><br/>To learn more about these developments, we have formed a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis.
 <br/><br/>
 
-<b>Upcoming seminars: 
+ <br/>Upcoming seminars: <br/>
 
-Program of the 7th Mind, Text, and Mining seminar:</b>
+Program of the 7th Mind, Text, and Mining seminar:</b> <br/>
 
 Q&A (via Skype) with James W. Pennebaker (University of Texas Austin) after which we will have a round table discussion.
 
@@ -19,8 +19,9 @@ Q&A (via Skype) with James W. Pennebaker (University of Texas Austin) after whic
     Date and time: October 18, 2018, 3-5PM (we will start at 3 PM sharp!)
 
     Location: NIOD Institute for War, Holocaust and Genocide studies (Herengracht 380 1016 CJ Amsterdam)
+     <br/> <br/>
 
-<b>Program of the 8th Mind, Text, and Mining seminar:</b>
+<b>Program of the 8th Mind, Text, and Mining seminar:</b> <br/>
 
 Seminar with Marij Swinkels about cognitive mapping. During this seminar Marij will first explain what cognitive mapping is, with leadership in the European Union as a case study, and how it differs from other text as data approaches. Currently, cognitive mapping requires a lot of input from the researcher. The goal of this hands-on seminar is to develop ideas on how to automate some steps of this approach.
 
