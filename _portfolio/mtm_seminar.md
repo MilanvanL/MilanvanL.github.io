@@ -31,7 +31,7 @@ Seminar with Marij Swinkels about cognitive mapping. During this seminar Marij w
     Location: University of Amsterdam, room TBD
 
 
-<br/><br/><img src='https://pbs.twimg.com/media/DL8aU6kWAAEproA.jpg:small'>
+<br/><br/><img src='http://mschoonvelde.com/assets/img/mtm.jpg:small'>
 <br/><i> Roundtable discussion during the third seminar at the NIOD, 2017 </i>"
 collection: portfolio
 ---
