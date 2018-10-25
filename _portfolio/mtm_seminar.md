@@ -8,18 +8,8 @@ In collaboration with dr. Martijn Schoonvelde (VU University) and dr. Mark Deche
 <br/><br/>To learn more about these developments, we have formed a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis.
 <br/><br/>
 
-<b> <br/>Upcoming seminars: <br/>
+<b> <br/>Upcoming seminar: <br/>
 
-Program of the 7th Mind, Text, and Mining seminar:</b> <br/>
-
-Q&A (via Skype) with James W. Pennebaker (University of Texas Austin) after which we will have a round table discussion.
-     <br/> <br/>
-    About the speaker: Professor James Pennebaker is Centennial Liberal Arts Professor of Psychology at the University of Texas at Austin. He is a key figure in the study of psychology using text both through his wide-ranging research and through development of the Linguistic Inquiry and Word Count (LIWC) text analysis program, which is being used by many researchers within the social sciences and in industry.
-     <br/> <br/>
-   <b> Date and time: October 18, 2018, 3-5PM (we will start at 3 PM sharp!)
-     <br/> <br/>
-    Location: NIOD Institute for War, Holocaust and Genocide studies (Herengracht 380 1016 CJ Amsterdam) </b>
-     <br/> <br/>
 
 <b>Program of the 8th Mind, Text, and Mining seminar:</b> <br/>
 
@@ -32,7 +22,7 @@ Seminar with Marij Swinkels about cognitive mapping. During this seminar Marij w
     Location: University of Amsterdam, room TBD </b>
 
 
-<br/><br/><img src='http://mschoonvelde.com/assets/img/mtm.jpg:small'>
+<br/><br/><img src='https://www.niod.nl/sites/niod.nl/files/styles/tekstkolomcustom_user_desktop_1x/public/mtm_0.jpg?itok=GFwc1reU&timestamp=1538571545:small'>
 <br/><i> Roundtable discussion during the third seminar at the NIOD, 2017 </i>"
 collection: portfolio
 ---
