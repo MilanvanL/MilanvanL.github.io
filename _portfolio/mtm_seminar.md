@@ -13,13 +13,15 @@ In collaboration with dr. Martijn Schoonvelde (VU University) and dr. Mark Deche
 
 <b>Program of the 8th Mind, Text, and Mining seminar:</b> <br/>
 
-Seminar with Marij Swinkels about cognitive mapping. During this seminar Marij will first explain what cognitive mapping is, with leadership in the European Union as a case study, and how it differs from other text as data approaches. Currently, cognitive mapping requires a lot of input from the researcher. The goal of this hands-on seminar is to develop ideas on how to automate some steps of this approach.
+Seminar with Pier Tortola (University of Groningen): The charismatic leadership of the ECB presidency: A language-based analysis
+<br/>
+There is little doubt that the European Central Bank (ECB), and in particular its presidency, has taken the lead in tackling the euro crisis. But can this leadership be also characterised as charismatic? This article answers the question by focusing on language – a key component as well as a reliable indicator of charisma. By means of a software-assisted content analysis of the entire corpus of ECB presidential speeches, it is found that the crisis has indeed led to the emergence of the Bank’s presidency as a charismatic euro leader. This in turn confirms the recent politicisation of the ECB, but at the same time might be seen as mitigating the problems related to the Bank’s democratic deficit, to the extent that charisma can be seen, from a Weberian standpoint, as an alternative source of political legitimacy.
      <br/> <br/>
-    About the speaker: Marij Swinkels is a PhD candidate and lecturer at the Utrecht University School of Governance. In her PhD, she focuses on how European political leaders make use of economic ideas in the Eurozone crisis to explain the causes, consequences and solutions of the crisis.
+    About the speaker: Pier Tortola is a political scientist working at the University of Groningen, where he is Assistant Professor in the department of European Languages and Cultures.
      <br/> <br/>
-   <b> Date and time: November 22, 2018, 3-5PM (we will start at 3 PM sharp!)
+   <b>     Date and time: November 22, 2018, 3-5PM (we will start at 3 PM sharp!)
      <br/> <br/>
-    Location: University of Amsterdam, room TBD </b>
+    Location: Roeterseiland Campus, REC B2.08, University of Amsterdam (Roetersstraat, 1018 WD Amsterdam) </b>
 
 
 <br/><br/><img src='https://www.niod.nl/sites/niod.nl/files/styles/tekstkolomcustom_user_desktop_1x/public/mtm_0.jpg?itok=GFwc1reU&timestamp=1538571545:small'>
