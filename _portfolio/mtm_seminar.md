@@ -22,6 +22,8 @@ There is little doubt that the European Central Bank (ECB), and in particular it
    <b>     Date and time: November 22, 2018, 3-5PM (we will start at 3 PM sharp!)
      <br/> <br/>
     Location: Roeterseiland Campus, REC B2.08, University of Amsterdam (Roetersstraat, 1018 WD Amsterdam) </b>
+       <br/> <br/>
+    The number of participants is limited. If you want to participate, please send an email to Martijn Schoonvelde (mschoonvelde - at- gmail.com). Please feel free to forward this e-mail to your colleagues. 
 
 
 <br/><br/><img src='https://www.niod.nl/sites/niod.nl/files/styles/tekstkolomcustom_user_desktop_1x/public/mtm_0.jpg?itok=GFwc1reU&timestamp=1538571545:small'>
