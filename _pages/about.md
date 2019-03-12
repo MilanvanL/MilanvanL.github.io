@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Milan van Lange and this is my website. I am a PhD-Candidate, working on a research project titled  [War and Emotions](https://www.niod.nl/en/projects/war-and-emotions-mining-expressions-emotionality-dutch-political-and-public-language){:target="_blank"} at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam. I am also affiliated to Utrecht University. From February till May 2019 I am a PhD Research Fellow at the The Luxembourg Centre for Contemporary and Digital History (C²DH) located in Belval, Luxembourg.
+Welcome! My name is Milan van Lange and this is my website. I am a PhD-Candidate, working on a research project titled  [War and Emotions](https://www.niod.nl/en/projects/war-and-emotions-mining-expressions-emotionality-dutch-political-and-public-language){:target="_blank"} at the NIOD Institute for War, Holocaust, and Genocide Studies in Amsterdam. I am also affiliated to Utrecht University. From February till May 2019 I am working as a PhD Research Fellow at the The Luxembourg Centre for Contemporary and Digital History (C²DH) located in Belval, Luxembourg.
 
 After studying History at the Radboud University in Nijmegen, I worked as a Research Assistant at the NIOD in 2015 and 2016. There, I turned from a rather traditionally educated Cultural Historian into some sort of programming historian, working mainly with digitized data and political records in R (I still like Cultural History, though). 
 
