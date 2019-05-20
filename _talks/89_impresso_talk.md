@@ -1,7 +1,7 @@
 ---
 title: "Beyond the tantrum: Questioning shared intuitions in historiography with emotion mining"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/talk_2019_2
 venue: "Impresso Talk"
 date: 2019-04-17
