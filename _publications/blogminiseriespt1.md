@@ -1,4 +1,3 @@
-
 ---
 title: "Integrating New Methods in Historical Research (part 1): My Fellowship at the University of Luxembourg"
 collection: publications
