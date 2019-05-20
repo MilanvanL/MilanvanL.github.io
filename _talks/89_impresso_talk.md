@@ -10,5 +10,5 @@ location: "Belval, LU"
 
 During my research fellowship at the University of Luxembourg, I was invited to give an impresso talk. I presented my research practices and discussed how emotion mining can help reconsider historiographical shared intuitions on the political debates on the war.
 
-See also the <a href="https://web.archive.org/web/20190312162005/https://cst.dk/DHN2019Pro/abstracts/Emancipation.pdf" target="_blank">website</a> of the C2DH.
+See also the <a href="https://www.c2dh.uni.lu/events/beyond-tantrum-questioning-shared-intuitions-historiography-emotion-mining" target="_blank">website</a> of the C2DH.
 
