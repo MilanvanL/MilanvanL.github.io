@@ -1,5 +1,5 @@
 ---
-title: "Integrating New Methods in Historical Research (part 1): My Fellowship at the University of Luxembourg"
+title: "NIOD-blog miniseries: Integrating New Methods in Historical Research"
 collection: publications
 type: blog post
 permalink: /publication/blogminiseriespt1
@@ -8,7 +8,7 @@ venue: 'NIOD Blog'
 paperurl: 
 
 ---
-In this NIOD blog miniseries, I briefly discuss my experiences as a fellow at the C2DH in Luxembourg. In this first blog post, I introduce the C2DH and one of their projects: ‘impresso: Media monitoring of the past. Mining 200 years of historical newspapers’.
+In this NIOD blog miniseries, I briefly discuss my experiences as a fellow at the C2DH in Luxembourg. I write on the impresso newspaper project (part 1), the exploratory work on this project (part 2), and reflect on the application of digital methods in historical research (part 3).
 
-[View blog post here](http://niodbibliotheek.blogspot.com/2019/05/integrating-new-methods-in-historical-research-1.html){:target="_blank"}
+[View blog post here](https://niod.nl/nl/nieuws/niod-blog-integrating-new-methods-historical-research-milan-van-lange){:target="_blank"}
 
