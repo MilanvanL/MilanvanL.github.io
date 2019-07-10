@@ -4,7 +4,7 @@ collection: publications
 type: journal article
 permalink: /publication/debating_evil_paper
 date: 2019-06-07
-journal: 'Contributions to Contemporary History'
+venue: 'Contributions to Contemporary History'
 paperurl: 
 citation: 'van Lange, M. & Futselaar, R. (2019). &quot;Debating Evil: Using Word Embeddings to Analyze Parliamentary Debates on War Criminals in The Netherlands.&quot; <i>Contributions to Contemporary History</i>, Vol 59, No 1 (2019)'
 ---
