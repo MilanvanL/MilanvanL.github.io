@@ -4,7 +4,7 @@ collection: publications
 type: journal article
 permalink: /publication/debating_evil_paper
 date: 2019-06-07
-venue: 'Contributions to Contemporary History'
+venue: 'Contributions to Contemporary History. Vol. 59, no. 1 (2019)'
 paperurl: 
 citation: ''
 ---
