@@ -1,5 +1,5 @@
 ---
-title: "Debating Evil: Using Word Embeddings to Analyze Parliamentary Debates on War Criminals in The Netherlands"
+title: "Debating Evil (conference paper)"
 collection: publications
 type: conference paper
 permalink: /publication/debating_evil
