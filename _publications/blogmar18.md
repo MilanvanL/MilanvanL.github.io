@@ -4,7 +4,7 @@ collection: publications
 type: blog post
 permalink: /publication/blogmar18
 date: 2018-03-29
-venue: 'NIOD Blog'
+venue: 'NIOD Library Blog'
 paperurl: 
 
 ---
