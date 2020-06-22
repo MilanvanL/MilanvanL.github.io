@@ -4,7 +4,7 @@ collection: talks
 type: "Long paper"
 permalink: /talks/talk_2020_1
 venue: "Digital Humanities Benelux 2020"
-date: 2019-06-03
+date: 2020-06-03
 location: "Online"
 ---
 During the online DH Benelux 2020 I presented the working paper 'Vehemence and Victims' with Ralf Futselaar. 
