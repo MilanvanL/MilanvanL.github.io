@@ -2,7 +2,7 @@
 title: "War Letters"
 collection: projects
 type: "Digitisation project"
-permalink: /projects/warletters
+permalink: /projects/2020_warletters
 venue: "NIOD"
 date: 2020-07-01
 location: "Amsterdam, NL"
