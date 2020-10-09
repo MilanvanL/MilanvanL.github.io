@@ -1,7 +1,7 @@
 ---
 title: "War Letters"
 collection: projects
-type: "Research Master programme History"
+type: "Digitisation project"
 permalink: /projects/warletters
 venue: "NIOD"
 date: 2020-07-01
