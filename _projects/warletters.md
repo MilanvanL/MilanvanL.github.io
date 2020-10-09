@@ -4,12 +4,12 @@ collection: projects
 type: "Research Master programme History"
 permalink: /projects/warletters
 venue: "NIOD"
-date: 2017-09-01
-location: "Utrecht, NL"
+date: 2020-07-01
+location: "Amsterdam, NL"
 ---
 
-I taught this course together with Auke Rijpma and Pim Huijnen. The purpose of this course was to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. 
+‘First-Hand Accounts of War’ aims to digitise and preserve the NIOD’s vast collection of war letters.
 
-A main goal of the course was to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry. In this course students worked with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment. We composed our own handouts, instruction manual, and example code by using open source software (R), Github, several Digital Humanities blogs, and existing handbooks. Students were trained in the use of analytical tools in a ‘hands on’ setting, in which they worked on their own research projects. 
+Goal of this project is not only to make this collection more accessible, but also to create a scholarly digital dataset. In the initial phase of the project we will digitise the collection by scanning, transcribing, and annotating the letters. ‘First-Hand Accounts of War’ wants to take it a step further by also creating a structured, scholarly dataset that can be used in research for the application of, for example, quantitative text analysis. We will use Transkribus for Hand-Written Text Recognition (HTR). This ensures the collection is not only better preserved for future generations, but also made available in a way that offers new research possibilities.
 
-[More information and the syllabus can be found here on Github](https://github.com/uu-his/Methods)
+More information can be found on the NIOD-<a href="https://www.niod.nl/en/projects/war-letters-1935-1950-niod-digitised" target="_blank">website</a>.
